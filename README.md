@@ -1,6 +1,4 @@
 <div align="center">
-<br />
-<img src="https://cdn.discordapp.com/attachments/1115378783101407332/1119901067845570610/STvfYrN.jpg"/>
 <h1>Hey, I'm sinner 👋</h1></div>
 
 ---
