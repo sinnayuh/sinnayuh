@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hey, I'm sinner 👋</h1></div>
+<h1>Hey, I'm sin 👋</h1></div>
 
 ---
 <div align="center">
